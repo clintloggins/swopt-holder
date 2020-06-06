@@ -8,14 +8,6 @@
     "topLevel": true,
     "allAtoms": [
         {
-            "atomType": "Stl",
-            "name": "Stl",
-            "x": 0.08345534407027819,
-            "y": 0.2099236641221374,
-            "uniqueID": 606748,
-            "ioValues": []
-        },
-        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9853587115666179,
